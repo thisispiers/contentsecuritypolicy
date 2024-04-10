@@ -1,0 +1,14 @@
+{
+    "name": "thisispiers/contentsecuritypolicy",
+    "description": "Manage Content-Security-Policy directives",
+    "license": "LGPL-3.0-only",
+    "version": "1.0.0",
+    "require": {
+        "php": ">=7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "thisispiers\\ContentSecurityPolicy\\": ""
+        }
+    }
+}
